@@ -30,6 +30,19 @@ a {
 	font-weight: 600;
         font-size: 16px;
 }
+h3{
+   font-family: 'Dancing Script', cursive;
+   font-size:40px;
+   color: #2E120C;
+   margin-left: 80px;
+}
+h4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 23px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+}
 h5 {
 	font-family: 'Dancing Script', cursive;
 	color: #2E120C;
@@ -272,4 +285,78 @@ transform: rotate(30deg);
 }
 #introduction p {
 	margin-bottom: 40px;
+}
+
+/* images of the value page */
+#logo2,#values{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
+/* buttons of the value page */
+.button{
+  background-color: #D1BFB5;
+  color: black;
+  padding:7px 25px 5px;
+  font-size: bold;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+}
+#login{
+  margin-left: 310px;
+  position: absolute;
+}
+#continue{
+  margin-left: 720px;
+  position: absolute;
+}
+
+
+/* Products on homepage */
+#heels{
+  margin-left: 80px;
+  position: absolute;
+}
+#boots{
+  margin-left: 530px;
+  position: absolute;
+}
+#sneakers{
+  margin-left: 980px;
+  position: absolute;
+}
+#sandals{
+  position: absolute;
+  margin: 430px 305px;
+}
+#mocassins{
+  position: absolute;
+  margin: 430px 755px;
+}
+
+
+/* buttons of the homepage */
+#button-heels{
+  position: absolute;
+  margin: 120px 80px;
+}
+#button-boots{
+  position: absolute;
+  margin: 120px 530px;
+}
+#button-sneakers{
+  position: absolute;
+  margin: 120px 980px;
+}
+#button-sandals{
+  position: absolute;
+  margin: 550px 305px;
+}
+#button-mocassins{
+  position: absolute;
+  margin: 550px 755px;
 }
