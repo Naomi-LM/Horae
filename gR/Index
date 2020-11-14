@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>About our values</title>
+  <meta name="description" content="Discover more about our values">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  
+<img id="logo2" src="images/logo2.png">
+
+<h3>Our values</h3>
+
+<h4>We are a fair trade women's shoe brand. The materials used in the manufacturing process are biodegradable and environmentally friendly. We also use recycled and recyclable materials afterwards.</h4>
+<h4>We care about the well-being of our employees and their happiness at work. We respect the standards and cultures of each of our employees located in several countries. They provide us with natural materials.</h4>
+<h4>However the manufacture of the shoes is exclusively French. Our employees are qualified and constantly follow training courses in order to improve their skills.</h4>
+<h4>Don't forget to visit our social network pages to find out more about us.</h4>
+<h4>Enjoy your visit to our site!</h4>
+<br>
+
+<img id="values" src="images/values.png">
+<br>
+
+<div id="login">
+	<h4 class="button">Log in</h4>
+</div>
+
+<div id="continue">
+	<h4 class="button">Continue on website</h4>
+</div>
+
+</body>
+
+
+</html>>
